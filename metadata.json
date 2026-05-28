@@ -1,0 +1,6 @@
+{
+  "name": "Notes",
+  "description": "Notes App with clean modern authentication and local dashboard storage",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
